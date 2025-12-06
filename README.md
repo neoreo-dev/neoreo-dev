@@ -1,10 +1,10 @@
 ## Hi, I'm Splatty 👋
 
 🏫 Student at IIS E. Mattei, Vasto (CH)<br/>
-💪 Self-taught junior designer and Swift coder<br/>
 🐰 Former member of the rabbit r[eborn] organization, the first reverse engineering project for the rabbit r1<br/>
-♿️ I create accessible, yet unique iOS apps, to solve everyday problems<br/>
+♿️ I create accessible, yet unique apps, to solve everyday problems<br/>
 🎥 I am a motion designer posting on both [TikTok](https://www.tiktok.com/@splattydoesstuff?lang=en) and [Instagram](https://www.instagram.com/splattydoesstuff/)<br/>
+💼 Worked (on the design side) with brands like HUAWEI, Replit, Ultrahuman and much more <br/>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/splattydeosstuff) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@splattydoesstuff) 
